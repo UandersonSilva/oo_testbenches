@@ -8,7 +8,7 @@ class random_test extends base_test;
       
          @(data_i.done);
       
-        repeat(9)
+        repeat(29)
         begin            
             data_i = new();
 

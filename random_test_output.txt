@@ -1,0 +1,32 @@
+##1 reset iteration + 29 random values iterations##
+
+# KERNEL: 12 [SCOREBOARD]: PASS:: reg_in: xxxx reg_wr: x reg_reset: 1 => reg_out: 0000 || Predicted => reg_out: 0000
+# KERNEL: 32 [SCOREBOARD]: PASS:: reg_in: 406a reg_wr: 0 reg_reset: 0 => reg_out: 0000 || Predicted => reg_out: 0000
+# KERNEL: 52 [SCOREBOARD]: PASS:: reg_in: 1cb9 reg_wr: 0 reg_reset: 0 => reg_out: 0000 || Predicted => reg_out: 0000
+# KERNEL: 72 [SCOREBOARD]: PASS:: reg_in: 9e38 reg_wr: 1 reg_reset: 0 => reg_out: 9e38 || Predicted => reg_out: 9e38
+# KERNEL: 92 [SCOREBOARD]: PASS:: reg_in: 5f4b reg_wr: 0 reg_reset: 0 => reg_out: 9e38 || Predicted => reg_out: 9e38
+# KERNEL: 112 [SCOREBOARD]: PASS:: reg_in: fb10 reg_wr: 0 reg_reset: 0 => reg_out: 9e38 || Predicted => reg_out: 9e38
+# KERNEL: 132 [SCOREBOARD]: PASS:: reg_in: 6800 reg_wr: 0 reg_reset: 0 => reg_out: 9e38 || Predicted => reg_out: 9e38
+# KERNEL: 152 [SCOREBOARD]: PASS:: reg_in: db37 reg_wr: 1 reg_reset: 0 => reg_out: db37 || Predicted => reg_out: db37
+# KERNEL: 172 [SCOREBOARD]: PASS:: reg_in: 10b9 reg_wr: 1 reg_reset: 0 => reg_out: 10b9 || Predicted => reg_out: 10b9
+# KERNEL: 192 [SCOREBOARD]: PASS:: reg_in: 90fd reg_wr: 0 reg_reset: 0 => reg_out: 10b9 || Predicted => reg_out: 10b9
+# KERNEL: 212 [SCOREBOARD]: PASS:: reg_in: 539f reg_wr: 1 reg_reset: 0 => reg_out: 539f || Predicted => reg_out: 539f
+# KERNEL: 232 [SCOREBOARD]: PASS:: reg_in: 6755 reg_wr: 1 reg_reset: 0 => reg_out: 6755 || Predicted => reg_out: 6755
+# KERNEL: 252 [SCOREBOARD]: PASS:: reg_in: fd8e reg_wr: 1 reg_reset: 0 => reg_out: fd8e || Predicted => reg_out: fd8e
+# KERNEL: 272 [SCOREBOARD]: PASS:: reg_in: 3fc9 reg_wr: 1 reg_reset: 0 => reg_out: 3fc9 || Predicted => reg_out: 3fc9
+# KERNEL: 292 [SCOREBOARD]: PASS:: reg_in: 3769 reg_wr: 0 reg_reset: 0 => reg_out: 3fc9 || Predicted => reg_out: 3fc9
+# KERNEL: 312 [SCOREBOARD]: PASS:: reg_in: f75a reg_wr: 1 reg_reset: 0 => reg_out: f75a || Predicted => reg_out: f75a
+# KERNEL: 332 [SCOREBOARD]: PASS:: reg_in: 8699 reg_wr: 1 reg_reset: 0 => reg_out: 8699 || Predicted => reg_out: 8699
+# KERNEL: 352 [SCOREBOARD]: PASS:: reg_in: 5446 reg_wr: 0 reg_reset: 0 => reg_out: 8699 || Predicted => reg_out: 8699
+# KERNEL: 372 [SCOREBOARD]: PASS:: reg_in: 220b reg_wr: 1 reg_reset: 0 => reg_out: 220b || Predicted => reg_out: 220b
+# KERNEL: 392 [SCOREBOARD]: PASS:: reg_in: 3993 reg_wr: 1 reg_reset: 0 => reg_out: 3993 || Predicted => reg_out: 3993
+# KERNEL: 412 [SCOREBOARD]: PASS:: reg_in: ea8b reg_wr: 0 reg_reset: 0 => reg_out: 3993 || Predicted => reg_out: 3993
+# KERNEL: 432 [SCOREBOARD]: PASS:: reg_in: 090f reg_wr: 1 reg_reset: 0 => reg_out: 090f || Predicted => reg_out: 090f
+# KERNEL: 452 [SCOREBOARD]: PASS:: reg_in: b39d reg_wr: 0 reg_reset: 0 => reg_out: 090f || Predicted => reg_out: 090f
+# KERNEL: 472 [SCOREBOARD]: PASS:: reg_in: e6cd reg_wr: 0 reg_reset: 0 => reg_out: 090f || Predicted => reg_out: 090f
+# KERNEL: 492 [SCOREBOARD]: PASS:: reg_in: db50 reg_wr: 0 reg_reset: 0 => reg_out: 090f || Predicted => reg_out: 090f
+# KERNEL: 512 [SCOREBOARD]: PASS:: reg_in: 60c2 reg_wr: 0 reg_reset: 0 => reg_out: 090f || Predicted => reg_out: 090f
+# KERNEL: 532 [SCOREBOARD]: PASS:: reg_in: 5c13 reg_wr: 1 reg_reset: 0 => reg_out: 5c13 || Predicted => reg_out: 5c13
+# KERNEL: 552 [SCOREBOARD]: PASS:: reg_in: 415a reg_wr: 1 reg_reset: 0 => reg_out: 415a || Predicted => reg_out: 415a
+# KERNEL: 572 [SCOREBOARD]: PASS:: reg_in: 6f23 reg_wr: 1 reg_reset: 0 => reg_out: 6f23 || Predicted => reg_out: 6f23
+# KERNEL: 592 [SCOREBOARD]: PASS:: reg_in: ed96 reg_wr: 1 reg_reset: 0 => reg_out: ed96 || Predicted => reg_out: ed96
